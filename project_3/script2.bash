@@ -1,7 +1,7 @@
 # !/bin/bash
 operand1=12;
 operand2=2;
-operator="/"
+operator="*"
 result=0;
 
 case $operator in
