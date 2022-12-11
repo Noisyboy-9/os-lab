@@ -51,10 +51,10 @@ function print_steps(){
 
 case $1 in
 	"1")
-	print_numbers	
+	    print_numbers	
 		;;
 	"2")
-	print_diamond	
+	    print_diamond	
 		;;
 	"3")
 	    print_steps	
